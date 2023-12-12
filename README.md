@@ -15,3 +15,36 @@ Compile and Run the Java Program:
 1. javac Auction.java
 2. java Auction
 3. Follow the on-screen prompts to participate in the auctions.
+
+# Auction Highlights 🌟
+Luxury Mansion Auction:
+
+Item: British Royale
+Starting Bid: 1,000,000 Euros
+Automobile Auction:
+
+Item: Audi A5 2022
+Starting Bid: 60,000 Euros
+Electronics Auction:
+
+Item: Lenovo IDEA Laptop
+Starting Bid: 1,500 Euros
+Quantity: 5 available
+Art Auction:
+
+Item: Da Vinci Painting
+Starting Bid: 5,000,000 Euros
+
+# Participant Instructions 🎫
+Enter Username:
+
+Upon launching, enter your username to join the auction.
+View Available Auctions:
+
+Explore the available auctions and their respective items.
+Place Bids:
+
+Enter your bid amount when prompted.
+Winning Notification:
+
+Receive a notification if you win the auction.
